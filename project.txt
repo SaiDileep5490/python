@@ -1,0 +1,15 @@
+Project Name: Ethernet Validation
+
+Microcontroller: XMC4700
+
+Interface: Ethernet
+
+PHY: KSZ8081
+
+Main Activities:
+- Ethernet MAC validation
+- DMA validation
+- Internal loopback
+- PHY loopback
+- Data transmission
+- Data reception

@@ -1,0 +1,5 @@
+1. Validate Ethernet MAC configuration
+2. Test internal loopback
+3. Test PHY loopback
+4. Test DMA transmission
+5. Test DMA reception

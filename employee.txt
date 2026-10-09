@@ -1,0 +1,9 @@
+Name: Parvez
+
+Role: Validation Engineer
+
+Technology:
+C
+Ethernet
+USB
+XMC4700
